@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="843" started-at="2018-07-20T04:26:33Z" finished-at="2018-07-20T04:26:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="843" started-at="2018-07-20T04:26:33Z" finished-at="2018-07-20T04:26:34Z">
+      <class name="com.auto.PracticeC.TC">
+        <test-method status="PASS" signature="m33(java.lang.reflect.Method)[pri:0, instance:com.auto.PracticeC.TC@63753b6d]" name="m33" is-config="true" duration-ms="23" started-at="2018-07-20T04:26:33Z" finished-at="2018-07-20T04:26:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.auto.PracticeC.TC.m1()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m33 -->
+        <test-method status="PASS" signature="m1()[pri:0, instance:com.auto.PracticeC.TC@63753b6d]" name="m1" duration-ms="7" started-at="2018-07-20T04:26:33Z" finished-at="2018-07-20T04:26:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m21(org.testng.ITestResult)[pri:0, instance:com.auto.PracticeC.TC@63753b6d]" name="m21" is-config="true" duration-ms="0" started-at="2018-07-20T04:26:33Z" finished-at="2018-07-20T04:26:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=m1 status=SUCCESS method=TC.m1()[pri:0, instance:com.auto.PracticeC.TC@63753b6d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m21 -->
+        <test-method status="PASS" signature="m33(java.lang.reflect.Method)[pri:0, instance:com.auto.PracticeC.TC@63753b6d]" name="m33" is-config="true" duration-ms="0" started-at="2018-07-20T04:26:33Z" finished-at="2018-07-20T04:26:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.auto.PracticeC.TC.m2()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m33 -->
+        <test-method status="PASS" signature="m21(org.testng.ITestResult)[pri:0, instance:com.auto.PracticeC.TC@63753b6d]" name="m21" is-config="true" duration-ms="1" started-at="2018-07-20T04:26:33Z" finished-at="2018-07-20T04:26:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=m2 status=SUCCESS method=TC.m2()[pri:0, instance:com.auto.PracticeC.TC@63753b6d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m21 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:com.auto.PracticeC.TC@63753b6d]" name="m2" duration-ms="0" started-at="2018-07-20T04:26:33Z" finished-at="2018-07-20T04:26:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method status="PASS" signature="m22()[pri:0, instance:com.auto.PracticeC.TC@63753b6d]" name="m22" is-config="true" duration-ms="769" started-at="2018-07-20T04:26:33Z" finished-at="2018-07-20T04:26:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m22 -->
+      </class> <!-- com.auto.PracticeC.TC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
